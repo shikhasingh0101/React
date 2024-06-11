@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.places{
+    height:800px;
+    padding:60px 5%;
+    width:100%;
+    background-color: lightgray;
+    display: flex;
+    column-gap: 14%;
+    flex-wrap: wrap;
+}
+
+.place{
+    height:500px;
+    width:24%;
+    background-color: blue;
+
+}
+.place-img{
+    height:100%;
+    width:350px;
+    overflow: hidden;
+
+}
+.place-content{
+    height: 150px;
+    width:350px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 20px;
+    row-gap: 10px;
+    font-family: seogo UI;
+    border-radius: 10px;
+
+}
+img{
+    width: 100%;
+
+}
+.btn{
+    padding: 10px 25px;
+    font-weight: bold;
+    background-color: #3179d2;
+    color:white;
+    border: none;
+}
