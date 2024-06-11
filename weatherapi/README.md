@@ -13,7 +13,7 @@ Follow these steps to set up and run the project locally:
 Clone the repository:
 
 
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/shikhasingh0101/React/tree/main/weatherapi
 Navigate to the project directory:
 
 
