@@ -1,0 +1,14 @@
+table, th, td {
+    
+    padding:10px;
+    border: 1px solid;
+    border-collapse: collapse;
+  }
+
+  th{
+    background-color:yellow;
+  }
+  tr{
+    background-color:lightblue;
+
+  }
