@@ -10,7 +10,7 @@ Usage
 Clone the repository:
 
 
-git clone https://github.com/yourusername/react-tic-tac-toe.git
+git clone https://github.com/shikhasingh0101/React/blob/main/tic-tac-toe
 cd react-tic-tac-toe
 Install dependencies:
 
