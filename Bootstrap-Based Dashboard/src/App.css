@@ -1,0 +1,20 @@
+
+.d-flex {
+  display: flex;
+}
+
+.sidebar {
+  width: 250px;
+  height: 100vh;
+  position: fixed;
+  background-color: #f8f9fa; 
+}
+
+.main-content {
+  margin-left: 250px;
+  width: calc(100% - 250px);
+}
+
+.container-fluid {
+  padding: 20px;
+}
