@@ -1,0 +1,46 @@
+
+header {
+    background: linear-gradient(45deg, #43cbff, #9708cc);
+    color: #fff;
+    padding: 10px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 1.5em; 
+    font-style: italic;
+    font-family: 'Georgia', serif;
+}
+
+nav {
+    margin-top: 10px; 
+}
+
+nav ul {
+    list-style: none; 
+    padding: 0; 
+    display: flex; 
+    gap: 10px; 
+}
+
+nav ul li {
+    display: inline; 
+}
+
+nav ul li a {
+    color: #fff; 
+    text-decoration: none; 
+    font-size: 0.9em; 
+    padding: 6px 12px; 
+    transition: background-color 0.3s ease, color 0.3s ease; 
+    border-radius: 5px; 
+}
+
+nav ul li a:hover {
+    background-color: rgba(255, 255, 255, 0.2); 
+    color: #fff; 
+}

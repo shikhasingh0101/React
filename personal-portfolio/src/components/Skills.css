@@ -1,0 +1,19 @@
+
+.skills-container {
+    background: #90d5ff; 
+    padding: 20px;
+    border: 2px solid #90d5ff; 
+    border-radius: 8px;
+    color: rgba(0, 0, 0, 0.85); 
+    text-align: center; 
+  }
+  
+  .skills-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .skills-list li {
+    margin-bottom: 8px;
+  }
+  

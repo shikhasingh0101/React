@@ -1,0 +1,111 @@
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  padding: 20px;
+}
+
+.hero {
+  background-color: #4a90e2;
+  color: white;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.hero h1 {
+  margin-bottom: 20px;
+}
+
+.hero p {
+  margin-bottom: 40px;
+}
+
+.hero a {
+  background-color: white;
+  color: #4a90e2;
+  padding: 15px 30px;
+  border-radius: 50px;
+  font-weight: bold;
+}
+
+.features, .pricing {
+  background-color: #f7f7f7;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.features h2, .pricing h2 {
+  margin-bottom: 40px;
+}
+
+.feature-card, .pricing-card {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  margin: 20px;
+  text-align: left;
+}
+
+.feature-card h3, .pricing-card h3 {
+  margin-bottom: 20px;
+}
+
+.pricing-card p {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.pricing-card ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.pricing-card li {
+  margin: 10px 0;
+}
+
+.pricing-card a {
+  background-color: #4a90e2;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 50px;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+.hero {
+  background-color: #4a90e2;
+  color: white;
+  text-align: center;
+}
